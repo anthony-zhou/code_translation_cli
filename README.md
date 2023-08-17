@@ -35,6 +35,8 @@ Sometimes GPT-4 makes a mistake on its first go, and it needs to solve some fail
 
 ![Demo where GPT-4 solves its own problems](demos/ci_func_demo.svg)
 
+Video version of this demo: https://asciinema.org/a/603256
+
 Note here that GPT-4 solves its problems by changing the unit tests to match the code output.  
 
 This is kind of cheating -- it's like changing the answer key to match what you answered on a test. 
